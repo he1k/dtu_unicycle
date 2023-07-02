@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "teensy_foot")(type "KiCad")(uri "${KIPRJMOD}/teensy_pretty")(options "")(descr ""))
+  (lib (name "unicycle_foot")(type "KiCad")(uri "${KIPRJMOD}/silkscreen/unicycle_silk.pretty")(options "")(descr ""))
+)
