@@ -1,4 +1,4 @@
-21760684088636763
+21767587404919651
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90306,6 +90306,13 @@ varistor
 0
 2
 2
+jlcpcb
+jlcpcb_tooling_hole
+
+
+0
+0
+0
 teensy_foot
 Teensy1.0
 11
@@ -90391,12 +90398,26 @@ Teensy_LC
 39
 39
 unicycle_foot
-Pololu G2 18v17
+Pololu G2 18v17 Text Down
 
 
 0
 8
 8
+unicycle_foot
+Pololu G2 18v17 Text Up
+
+
+0
+8
+8
+unicycle_foot
+PololuLSM6DSO Text Up
+
+
+0
+9
+9
 unicycle_foot
 TSR 2 2450
 
@@ -90404,6 +90425,13 @@ TSR 2 2450
 0
 3
 3
+unicycle_foot
+Teensy40 Simple
+
+
+0
+28
+28
 unicycle_foot
 dtu-logo-black-FTPNT
 
